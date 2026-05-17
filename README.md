@@ -15,6 +15,7 @@ HTML CSS JavaScript React Node MongoDB Express Python C++ SQL
 ## 📊 GitHub Stats
 
 (stats cards)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradnyaJadhav289&show_icons=true&theme=tokyonight)
 
 ---
 
