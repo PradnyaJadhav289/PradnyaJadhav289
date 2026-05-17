@@ -1,7 +1,37 @@
-## 🐍 Contribution 
+# Hi 👋 I'm Pradnya
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PradnyaJadhav289/PradnyaJadhav289/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PradnyaJadhav289/PradnyaJadhav289/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/PradnyaJadhav289/PradnyaJadhav289/output/github-snake.svg">
-</picture>
+💻 MERN Stack Developer
+🤖 GenAI & Data Science Enthusiast
+🧠 300+ LeetCode Problems Solved
+🚀 Building AI + Full Stack Projects
+
+---
+
+## 🚀 Tech Stack
+HTML CSS JavaScript React Node MongoDB Express Python C++ SQL
+
+---
+
+## 📊 GitHub Stats
+
+(stats cards)
+
+---
+
+## 🔥 Contribution Streak
+
+(streak card)
+
+---
+
+## 🐍 Contribution Snake
+
+(snake animation)
+
+---
+
+## 🌟 Featured Projects
+
+- AI Doctor Patient App
+- Emotion Based Music Recommender
+- ATS Resume Analyzer
