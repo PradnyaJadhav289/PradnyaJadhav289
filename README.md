@@ -1,4 +1,4 @@
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PradnyaJadhav289/PradnyaJadhav289/output/github-snake-dark.svg">
